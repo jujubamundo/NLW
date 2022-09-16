@@ -95,7 +95,7 @@ section ul li{
     transition: transform.3s;
 }
 
-sextion ul li:hover{
+section ul li:hover{
     transform: scale(1.1);
 }
 
